@@ -1,0 +1,3 @@
+name : Kim-young-jae
+number : 2013136023
+grade : 2
