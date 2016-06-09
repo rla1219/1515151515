@@ -15,3 +15,14 @@ using namespace std;
 | name | id | major |
 |------|----|-------|
 |김영재|2013136023|computer|
+
+aaaa
+-----
+
+
+bbb
+****
+
+
+ccccc
+________
