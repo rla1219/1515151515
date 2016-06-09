@@ -17,7 +17,7 @@ using namespace std;
 |김영재|2013136023|computer|
 
 aaaa
------
+---------------------
 
 
 bbb
