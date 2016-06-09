@@ -11,9 +11,9 @@
 using namespace std;
 ```
 
->aaa
->>bbb
->>>ccc
+>-aaa
+>>-bbb
+>>>-ccc
 
 | name | id | major |
 |------|----|-------|
